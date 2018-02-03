@@ -270,8 +270,8 @@ def my_form_post():
     if result[0] == 1:
         return render_template('Results.html')
     else :
-        return render_template('Results.html')
-        #return "Everything is fine, keepup the good work."
+        #return render_template('Results.html')
+        return render_template('Results1.html')
 
 
 
