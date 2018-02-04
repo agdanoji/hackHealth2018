@@ -23,6 +23,7 @@ With proper care and attention, a serious and dangerous disease can also be cure
 2. Run the following command on the terminal
 
 python app.py
+
 3. Open "http://localhost:5000/" on your favorite web browser.
 
 ## Details:
