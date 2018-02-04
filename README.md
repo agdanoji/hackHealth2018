@@ -1,10 +1,11 @@
 # hackHealth2018
 Mental Health Survey
-#Introduction:
+
+##Introduction:
 Mental illness is one of the most serious diseases currently being faced by 300,000 people per year in our society. 
 With proper care and attention, a serious and dangerous disease can also be cured. Here we are presenting a web application using Machine Learning algorithms to determine whether you require an assistance/care for your good mental health through a brief survey.
 
-#Specifications:
+##Specifications:
 1.Data Set used - Mental health in tech survey in Kaggle
 
 2.Programming Languages used - Python
@@ -17,14 +18,14 @@ With proper care and attention, a serious and dangerous disease can also be cure
 
 6.Tools used - Pycharm
 
-#Steps to Install:
+##Steps to Install:
 1. Download the FlaskApp directory
 2. Run the following command on the terminal
 
 python app.py
 3. Open "http://localhost:5000/" on your favorite web browser.
 
-#Details:
+##Details:
 1.The project started with importing a csv file which consisted the survey of more than 1200 people in their tech industry. The data was cleaned and preprocessed and was later divided for testing and training purpose.
 
 2.The next phase was creating a model which can efficiently predict whether the person requires treatment based on the survey. The various classification algorithms used were Logistic Regression, SVM and Bagging model. 
